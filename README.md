@@ -1,1 +1,1 @@
-# aiadept.io
+# blog.aiadept.io
